@@ -48,7 +48,7 @@ class Book():
 
 
 
-TheBook = Book("T", "JP", 55, 1, False)
+TheBook = Book("The Book", "Jay P", 55, 1, False)
 
 TheBook.open_book()
 TheBook.turn_page()
